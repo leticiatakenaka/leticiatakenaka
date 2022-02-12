@@ -19,7 +19,7 @@
 
 ## Redes sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/letakenaka)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/letícia-takenaka-0021b3230/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-takenaka-0021b3230/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiatakenaka&theme=buefy&show_icons=true&locale=en&layout=compact" alt="leticiatakenaka" /></p>
 
