@@ -17,6 +17,9 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
+## Praticando...
+[![Codewars](https://www.codewars.com/users/leticiatakenaka/badges/large)](https://www.codewars.com/users/leticiatakenaka/badges/small)
+
 ## Entre em contato!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/letakenaka)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-takenaka-0021b3230/)
