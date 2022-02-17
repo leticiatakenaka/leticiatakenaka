@@ -21,14 +21,12 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
+<br/>
 
 ## Entre em contato!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/letakenaka)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-takenaka-0021b3230/)
 
-<p><a href="https://github.com/leticiatakenaka"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiatakenaka&theme=buefy&show_icons=true&locale=en&layout=compact" alt="leticiatakenaka" /></p></a>
-
-<p>&nbsp;<a href="https://github.com/leticiatakenaka"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leticiatakenaka&theme=buefy&show_icons=true&locale=en" alt="leticiatakenaka" /></p></a>
-
-<p><a href="https://github.com/leticiatakenaka"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leticiatakenaka&theme=buefy&" alt="leticiatakenaka" /></p></a>
-
+<div>
+ <p><a href="https://github.com/leticiatakenaka"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiatakenaka&theme=buefy&show_icons=true&locale=en&layout=compact" alt="leticiatakenaka" /></p></a>
+ <p>&nbsp;<a href="https://github.com/leticiatakenaka"><img align="left" src="https://github-readme-stats.vercel.app/api?username=leticiatakenaka&theme=buefy&show_icons=true&locale=en" alt="leticiatakenaka" /></p></a>
