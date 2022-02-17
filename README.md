@@ -8,7 +8,7 @@
  <p align="left">📘 Aluna do curso Técnico em Informática</p>
  <p align="left">🖥️ Futura desenvolvedora</p></p> 
  <p align="left">💽 Apaixonada por tecnologia</p>
- <p align="left">😀 Ingles Intermediário</p>
+ <p align="left">:pencil: Ingles Intermediário</p>
  <br />
 </div>
 
