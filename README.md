@@ -1,4 +1,7 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://github.com/leticiatakenaka)
+<div>
+  <a href="https://github.com/leticiatakenaka">
+  <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif"/>
+</div>
 <div>
  <h1 align="center">Olá! Eu sou Letícia Takenaka 🖐️</h1>
  <h3 align="center">Estudante</h3> 
