@@ -18,7 +18,7 @@
 </div>
 
 ## Praticando...
-[![Codewars](https://www.codewars.com/users/leticiatakenaka/badges/large)](https://www.codewars.com/users/leticiatakenaka/badges/small)
+[![Codewars](https://www.codewars.com/users/leticiatakenaka/badges/micro)](https://www.codewars.com/users/leticiatakenaka)
 
 ## Entre em contato!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/letakenaka)
