@@ -6,7 +6,7 @@
  <h1 align="center">Olá, eu sou a Letícia Takenaka 🖐️</h1>
  <h3 align="center">Estudante</h3>
  <br />
- <a href="https://github.com/leticiatakenaka"><img align="right"alt="coding" width="450em" src="http://pa1.narvii.com/5958/ce23395a01aa30c93837f2150d9e8027e2103187_00.gif"></a>
+ <a href="https://github.com/leticiatakenaka"><img align="right"alt="coding" width="350em" src="http://pa1.narvii.com/5958/ce23395a01aa30c93837f2150d9e8027e2103187_00.gif"></a>
 </div>
 <div>
  <p align="left">🌱 Estou aprendendo programação</p> 
