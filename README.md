@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/leticiatakenaka">
-  <img src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif"/>
+  <img height="400em"src="https://timelinecovers.pro/facebook-cover/download/html-header-code-facebook-cover.jpg"/>
 </div>
 <div>
  <h1 align="center">Olá! Eu sou Letícia Takenaka 🖐️</h1>
