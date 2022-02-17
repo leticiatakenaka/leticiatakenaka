@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/leticiatakenaka">
-  <img height="400em"src="https://timelinecovers.pro/facebook-cover/download/html-header-code-facebook-cover.jpg"/>
+  <img src="https://developer.huawei.com/system/modules/org.opencms.portal.template.core/resources/images/support/banner-pc.jpg"/>
 </div>
 <div>
  <h1 align="center">Olá! Eu sou Letícia Takenaka 🖐️</h1>
