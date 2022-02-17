@@ -27,7 +27,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/letakenaka)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-takenaka-0021b3230/)
 
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/leticiatakenaka">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiatakenaka&show_icons=true&theme=buefy&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatakenaka&layout=compact&langs_count=7&theme=buefy"><a>
