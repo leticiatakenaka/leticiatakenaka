@@ -1,8 +1,4 @@
 <div>
-  <a href="https://github.com/leticiatakenaka">
-  <img src="https://developer.huawei.com/system/modules/org.opencms.portal.template.core/resources/images/support/banner-pc.jpg"/>
-</div>
-<div>
  <h1 align="center">Olá, eu sou a Letícia Takenaka 🖐️</h1>
  <h3 align="center">Estudante</h3>
  <br />
