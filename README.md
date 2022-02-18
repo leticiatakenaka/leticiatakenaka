@@ -21,8 +21,8 @@
 
  ## Praticando...
 <div>
-  <a href="https://www.codewars.com/users/leticiatakenaka" target="_blank"><img align="center" width="40em"alt="freecode"src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg"/>
-  <a href="https://www.freecodecamp.org/leticiatakenaka" target="_blank"><img align="center" width="40em"alt="codewars" src="https://www.codewars.com/packs/assets/logo-square-red-big-dark-text.2e091298.png"/>
+  <a href="https://www.codewars.com/users/leticiatakenaka"><img align="center" width="40em"alt="freecode"src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg" target="_blank"></a>
+  <a href="https://www.freecodecamp.org/leticiatakenaka"><img align="center" width="40em"alt="codewars" src="https://www.codewars.com/packs/assets/logo-square-red-big-dark-text.2e091298.png" target="_blank"></a>
  </div><br/>
 
 ## Entre em contato!
