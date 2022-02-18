@@ -35,7 +35,3 @@
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=leticiatakenaka&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatakenaka&layout=compact&langs_count=7&theme=buefy"/>
 </div>
-<div align="center">
- <a href="/">
- ![Snake animation](https://github.com/leticiatakenaka/leticiatakenaka/blob/output/github-contribution-grid-snake.svg)
- </div>
