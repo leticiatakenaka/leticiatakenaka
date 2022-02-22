@@ -4,7 +4,7 @@
  <a href="https://github.com/leticiatakenaka"><img align="right"alt="coding" width="380em" src="http://pa1.narvii.com/5958/ce23395a01aa30c93837f2150d9e8027e2103187_00.gif"></a>
 </div>
 <div>
- <p align="left">🌱 Estou aprendendo programação</p> 
+ <p align="left">🌱 Estou aprendendo Groovy</p> 
  <p align="left">📘 Aluna do curso Técnico em Informática</p>
  <p align="left">🖥️ Futura desenvolvedora</p></p> 
  <p align="left">💽 Apaixonada por tecnologia</p>
