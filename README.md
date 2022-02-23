@@ -6,7 +6,7 @@
 <div>
  <p align="left">🌱 Estou aprendendo Groovy</p> 
  <p align="left">📘 Aluna do curso Técnico em Informática</p>
- <p align="left">🖥️ Futura desenvolvedora</p></p> 
+ <p align="left">🖥️ Futura desenvolvedora de software</p></p> 
  <p align="left">💽 Apaixonada por tecnologia</p>
  <p align="left">:pencil: PT-BR / EN</p>
  <br />
