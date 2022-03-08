@@ -7,7 +7,7 @@
  <p align="left">⭐ Estou aprendendo Groovy</p> 
  <p align="left">📘 Aluna do curso Técnico em Informática</p>
  <p align="left">👩‍💻 Apaixonada por desenvolvimento</p>
- <p align="left">😁 Estagiando em TI</p>
+ <p align="left">😁 Estagiando em Suporte de Desenvolvimento e Sistemas</p>
  <p align="left">:pencil: PT-BR / EN - Intermediate</p>
  <br />
 </div>
