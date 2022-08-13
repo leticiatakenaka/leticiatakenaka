@@ -21,5 +21,5 @@
 
 ### Apaixonada por tecnologia e desenvolvimento.</br>
 
-Estagiária em Front-End e suporte ao sistema
+Estagiária em Front-End e suporte ao sistema <p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatakenaka&layout=compact)](https://github.com/leticiatakenaka/github-readme-stats)
