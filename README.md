@@ -28,3 +28,5 @@
 
 Estagiária Front-End e Suporte ao Sistema. 👩‍💻 <p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatakenaka&layout=compact)](https://github.com/leticiatakenaka/github-readme-stats)
+
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
