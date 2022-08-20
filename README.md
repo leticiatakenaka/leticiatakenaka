@@ -1,4 +1,5 @@
 ### Olá! Eu sou a Letícia Takenaka 😊
+![snake gif](https://github.com/leticiatakenaka/leticiatakenaka/blob/output/github-contribution-grid-snake.svg)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiatakenaka/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/letakenaka/)
@@ -28,5 +29,3 @@
 
 Estagiária Front-End e Suporte ao Sistema. 👩‍💻 <p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatakenaka&layout=compact)](https://github.com/leticiatakenaka/github-readme-stats)
-
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
