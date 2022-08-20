@@ -1,11 +1,11 @@
 ### Olá! Eu sou a Letícia Takenaka 😊
-![snake gif](https://github.com/leticiatakenaka/leticiatakenaka/blob/output/github-contribution-grid-snake.svg)
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiatakenaka/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/letakenaka/)
 
-![Leticia GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiatakenaka&show_icons=true&)</br></br>
+![snake gif](https://github.com/leticiatakenaka/leticiatakenaka/blob/output/github-contribution-grid-snake.svg)
 
+<!-- ![Leticia GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiatakenaka&show_icons=true&)</br></br>
+ -->
 ### Tecnologias que uso no meu dia a dia:
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
