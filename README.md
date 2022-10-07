@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Letícia Takenaka 😊
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiatakenaka/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/letakenaka/)
+[![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/leticiatakenaka/)
+[![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/leticiatakenaka/)
 
 ![snake gif](https://github.com/leticiatakenaka/leticiatakenaka/blob/output/github-contribution-grid-snake.svg)
 
