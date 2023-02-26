@@ -1,4 +1,5 @@
 ### Olá! Eu sou a Letícia Takenaka 😊
+Estagiária Front-End e Suporte ao Sistema. 👩‍💻 <p>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiatakenaka/)
 [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/leticiatakenaka/)
 [![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/leticiatakenaka/)
@@ -19,7 +20,5 @@
  	
 </div></br></br>
 
-### Apaixonada por tecnologia e desenvolvimento.</br>
 
-Estagiária Front-End e Suporte ao Sistema. 👩‍💻 <p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatakenaka&layout=compact)](https://github.com/leticiatakenaka/github-readme-stats)
