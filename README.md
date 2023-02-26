@@ -3,10 +3,9 @@
 [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/leticiatakenaka/)
 [![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/leticiatakenaka/)
 
-![snake gif](https://github.com/leticiatakenaka/leticiatakenaka/blob/output/github-contribution-grid-snake.svg)
 
-<!-- ![Leticia GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiatakenaka&show_icons=true&)</br></br>
- -->
+![Leticia GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiatakenaka&show_icons=true&)</br></br>
+
 
 ### Tecnologias que estou aprendendo:
 
