@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Letícia Takenaka 😊
-Sou uma Desenvolvedora, técnica em informática e futura Cientista da Computação! </br></br>Tenho conhecimentos de Front-end com React, Flutter e Angular, além de HTML, CSS e JavaScript. </br>
+Sou Desenvolvedora, técnica em informática e futura Cientista da Computação! </br></br>Tenho conhecimentos de Front-end com React, Flutter e Angular, além de HTML, CSS e JavaScript. </br>
 Atualmente estou estudando C# com o ASPNet, além de TDD e testes automatizados!
 
 
