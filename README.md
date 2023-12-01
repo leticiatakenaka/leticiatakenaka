@@ -1,5 +1,5 @@
 ## 👩‍💻 Letícia - Desenvolvedora C#
-Olá, eu sou a Letícia, uma entusiasta da tecnologia apaixonada por desenvolvimento de software e em constante aprendizado</br>
+Seja bem vindo ao meu perfil!
 
 ## 📚 Formação
 - Técnica em Informática
