@@ -1,6 +1,5 @@
 ## 👩‍💻 Letícia - Desenvolvedora C#
-Olá, eu sou a Letícia, uma entusiasta da tecnologia apaixonada por desenvolvimento e em constante aprendizado</br>
-Atualmente, estou cursando Ciência da Computação e trago comigo uma formação técnica em informática.
+Olá, eu sou a Letícia, uma entusiasta da tecnologia apaixonada por desenvolvimento de software e em constante aprendizado</br>
 
 ## 📚 Formação
 - Técnica em Informática
