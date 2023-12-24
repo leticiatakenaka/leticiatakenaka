@@ -4,6 +4,6 @@ I'm Letícia, an enthusiastic developer embarking on a continuous learning journ
 
 ## Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/leticiatakenaka)
+- [LinkedIn](https://www.linkedin.com/in/leticiatakenaka)
 
 Feel free to explore my repositories and follow along with my learning journey! I'm open to collaborations, feedback, and connections with tech enthusiasts. Let's learn and grow together! 🚀
